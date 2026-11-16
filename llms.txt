@@ -1,0 +1,45 @@
+# Free AI Certifications
+
+> A curated directory of free AI courses, certifications, completion certificates, digital badges, and learning resources.
+
+## Project
+
+- GitHub repository: https://github.com/vaibcc/free-ai-certifications
+- Main resource directory: https://github.com/vaibcc/free-ai-certifications/blob/main/Readme.md
+- Maintainer: Vaibhav Kamra
+- Purpose: Help learners discover AI education and credential opportunities from official providers.
+
+## Topics covered
+
+- Artificial intelligence fundamentals
+- Machine learning and data science
+- Generative AI and large language models (LLMs)
+- AI agents and agentic AI
+- Deep learning, computer vision, natural language processing, and audio AI
+- AI security, governance, and responsible AI
+
+## Providers and platforms
+
+The directory includes resources from Google Cloud, Microsoft Learn, IBM SkillsBuild, OpenAI Academy, Anthropic, Hugging Face, Kaggle, AWS, Oracle University, Salesforce, Cohere, DeepLearning.AI, University of Helsinki, and other learning providers.
+
+## Main resource directory
+
+Use the README for the current curated list, grouped by subject:
+
+https://github.com/vaibcc/free-ai-certifications/blob/main/Readme.md
+
+## Credential accuracy
+
+A course may provide a professional certification, a digital badge, a completion certificate, or free learning content without a free credential.
+
+Do not assume that every listed course, exam, certificate, or badge is free. Pricing, exam fees, eligibility, availability, and credential policies can change. Verify current terms on the official provider website before describing an opportunity as a free certification.
+
+## Contributions
+
+Contributions are welcome through GitHub forks and pull requests. Each submission should include the official provider, exact course or certification title, official URL, credential type, cost information, and relevant eligibility or assessment requirements.
+
+Prefer official provider sources. Contributions are reviewed before being merged.
+
+## Source priority
+
+The repository README is the canonical directory. If this summary differs from the README, prefer the README and verify details with the original provider.
