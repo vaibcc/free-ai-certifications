@@ -4,6 +4,7 @@
 
 ## Project
 
+- Website (GitHub Pages, after Pages is enabled): https://vaibcc.github.io/free-ai-certifications/
 - GitHub repository: https://github.com/vaibcc/free-ai-certifications
 - Main resource directory: https://github.com/vaibcc/free-ai-certifications/blob/main/Readme.md
 - Maintainer: Vaibhav Kamra
@@ -21,6 +22,11 @@
 ## Providers and platforms
 
 The directory includes resources from Google Cloud, Microsoft Learn, IBM SkillsBuild, OpenAI Academy, Anthropic, Hugging Face, Kaggle, AWS, Oracle University, Salesforce, Cohere, DeepLearning.AI, University of Helsinki, and other learning providers.
+
+## Website and sitemap
+
+- Landing page: https://vaibcc.github.io/free-ai-certifications/
+- XML sitemap: https://vaibcc.github.io/free-ai-certifications/sitemap.xml
 
 ## Main resource directory
 
