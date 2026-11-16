@@ -1,6 +1,4 @@
-# Robots rules for the Free AI Certifications website.
-# These rules are effective when GitHub Pages (or another website host)
-# serves this file from the website root.
-
 User-agent: *
 Allow: /
+
+Sitemap: https://vaibcc.github.io/free-ai-certifications/sitemap.xml
